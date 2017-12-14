@@ -1,19 +1,17 @@
-body{
-  font-family: Verdana
-  background-color:black;
+body {
+  font-family: Verdana;
   text-align: center;
-}
-h1{
-  font-weight: normal;
-  font-size: 50px;
+  background-color: black;
   color: white;
-  text-align:center;
+  display: block;
+  margin: 8px
 }
-h2{
-  font-weight: 300;
-  font-size: 42px
+html {
+  display: block;
 }
-a{
-  color:Aquamarine;
-  font-size: 16px;
+.footer {
+  text-align: right;
+}
+div {
+  display: block;
 }
